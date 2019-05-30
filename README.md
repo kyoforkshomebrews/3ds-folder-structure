@@ -26,3 +26,7 @@ plugins/CTRPF/ - only CTRPF plugins
 
 screenshots - for screenshots. could have subfolder for different programs (ntr and luma both can make screenshots for example) could also have a merged folder.
 
+saves - for save editors maybe
+
+Note that this is a recommendation and i dont want to say "hey everyone use this, and exactly like this!" i just want to make my sd card tidier and maybe ones of other people too. Feel free to suggest changes in the issues.
+
