@@ -12,6 +12,8 @@ backups - for saves backups with checkpoint or similar apps
 
 data - for configs, saves (of homebrew apps/games) etc. (kinda like %AppData% in Windows)
 
+games - i don't know, put your game cias there? or maybe... games for emulators and the like..
+
 plugins - for plugins for example for ntr cfw.
 
 plugins/ntr/ - only ntr plugins
